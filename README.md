@@ -28,9 +28,19 @@
 
 ### What I teach
 
-Machine Learning · Information Systems · Computer Security · Computer Networks · Information Privacy &amp; Data Protection · Programming (Python / C++ / Java) · Data Structures · Discrete Mathematics.
+Department of Information Science, Kuwait University:
 
-Featured course tool: [`Device-Anatomy`](https://github.com/ShaikhaTheGreen/Device-Anatomy) — interactive 3D explorer for ISC230 IT Infrastructure ([live demo](https://shaikhathegreen.github.io/Device-Anatomy/)).
+- `ISC101` Introduction to Information Systems
+- `ISC115` Computing Foundations
+- `ISC230` IT Infrastructure — featured tool: [`Device-Anatomy`](https://github.com/ShaikhaTheGreen/Device-Anatomy) · [live demo](https://shaikhathegreen.github.io/Device-Anatomy/)
+- `ISC321` Database Systems
+- `ISC350` Networks
+- `ISC353` Information Systems Security
+- `ISC380` Information System Management
+
+### Graduate advising
+
+- **Anfal Malallah** — graduate student. ISO/IEC 27035 compliance · *EB-IMAT*. Co-advised with Prof. Kassem Saleh.
 
 ### Featured repositories
 
