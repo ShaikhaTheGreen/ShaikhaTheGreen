@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>Faculty · Department of Information Sciences · Kuwait University</em><br>
-  <em>Penn State · PhD</em>
+  <em>Penn State · PhD in Computer Science &amp; Engineering</em>
 </p>
 
 <p align="center">
