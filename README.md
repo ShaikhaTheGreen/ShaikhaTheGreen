@@ -12,9 +12,7 @@
   <a href="https://www.ku.edu.kw/user/2227">
     <img src="https://img.shields.io/badge/Kuwait_University-Faculty_Page-C9A227?style=flat-square" alt="KU faculty page">
   </a>
-  <a href="mailto:s.alkhadhr@ku.edu.kw">
-    <img src="https://img.shields.io/badge/Email-s.alkhadhr%40ku.edu.kw-1D1D1F?style=flat-square&logo=maildotru&logoColor=white" alt="Email">
-  </a>
+  <img src="https://img.shields.io/badge/Email-s.alkhadhr__at__ku.edu.kw-1D1D1F?style=flat-square&logo=maildotru&logoColor=white" alt="Email">
 </p>
 
 ---
@@ -52,4 +50,4 @@ Department of Information Science, Kuwait University:
 
 ### Reach me
 
-For research collaboration, supervision, or invited talks → **[shaikhathegreen.github.io](https://shaikhathegreen.github.io/)** · `s.alkhadhr@ku.edu.kw`
+For research collaboration, supervision, or invited talks → **[shaikhathegreen.github.io](https://shaikhathegreen.github.io/)** · `s.alkhadhr_at_ku.edu.kw`
