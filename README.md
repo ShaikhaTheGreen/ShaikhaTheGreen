@@ -12,6 +12,9 @@
   <a href="https://www.ku.edu.kw/user/2227">
     <img src="https://img.shields.io/badge/Kuwait_University-Faculty_Page-C9A227?style=flat-square" alt="KU faculty page">
   </a>
+  <a href="https://orcid.org/0000-0001-5938-2953">
+    <img src="https://img.shields.io/badge/ORCID-0000--0001--5938--2953-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
   <img src="https://img.shields.io/badge/Email-s.alkhadhr__at__ku.edu.kw-1D1D1F?style=flat-square&logo=maildotru&logoColor=white" alt="Email">
 </p>
 
